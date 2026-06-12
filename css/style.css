@@ -1,0 +1,9 @@
+body { 
+  background-color: #f8f9fa; 
+}
+
+.weather-card { 
+  display: none;
+  width: 100%;
+  max-width: 350px;
+}
